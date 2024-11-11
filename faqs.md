@@ -31,7 +31,7 @@ You first need to establish an SSO connection with your identity provider, and t
 
 ### Does Docker SSO support multi-factor authentication (MFA)?
 
-When an organization uses SSO, MFA is determined on the IdP level, not on the Docker platform. Adding something else so we are not just reverting back to the original version.
+When an organization uses SSO, MFA is determined on the IdP level, not on the Docker platform. We will commit this to a new branch and see how that looks.
 
 ### Do I need a specific version of Docker Desktop for SSO?
 
