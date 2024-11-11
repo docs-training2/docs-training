@@ -18,6 +18,13 @@ aliases:
 - This is the first item in an unordered list
 - This is the second item in an unordered list
   - This is another level in the unordered list
+  - Here is another item in this level
+    - Here is a third level
+
+1. This is an ordered list
+2. This is another item in this ordered list
+
+You can find more information in the [Markdown Syntax Guide](https://www.markdownguide.org/basic-syntax/).
 
 ### Is Docker SSO available for all paid subscriptions?
 
