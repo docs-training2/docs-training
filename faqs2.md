@@ -13,6 +13,14 @@ aliases:
 - /security/faqs/single-sign-on/saml-faqs/fdsf
 ---
 
+## This is a new heading we are adding for training purposes
+
+This is a new paragraph we are adding for training purposes, too.
+
+- This list is for training
+- This second list item is for training, too
+- This third list item helps train as well
+
 ### Is Docker SSO available for all paid subscriptions?
 
 Docker single sign-on (SSO) is only available with the Docker Business subscription. [Upgrade your existing subscription](/subscription/core-subscription/upgrade/) to start using Docker SSO.
